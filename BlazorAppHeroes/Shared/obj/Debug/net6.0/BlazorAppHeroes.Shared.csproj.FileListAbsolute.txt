@@ -1,0 +1,12 @@
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\bin\Debug\net6.0\BlazorAppHeroes.Shared.deps.json
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\bin\Debug\net6.0\BlazorAppHeroes.Shared.dll
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\bin\Debug\net6.0\BlazorAppHeroes.Shared.pdb
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\BlazorAppHeroes.Shared.csproj.AssemblyReference.cache
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\BlazorAppHeroes.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\BlazorAppHeroes.Shared.AssemblyInfoInputs.cache
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\BlazorAppHeroes.Shared.AssemblyInfo.cs
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\BlazorAppHeroes.Shared.csproj.CoreCompileInputs.cache
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\BlazorAppHeroes.Shared.dll
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\refint\BlazorAppHeroes.Shared.dll
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\BlazorAppHeroes.Shared.pdb
+D:\Proyectos\BlazorAppHeroes\BlazorAppHeroes\Shared\obj\Debug\net6.0\ref\BlazorAppHeroes.Shared.dll
